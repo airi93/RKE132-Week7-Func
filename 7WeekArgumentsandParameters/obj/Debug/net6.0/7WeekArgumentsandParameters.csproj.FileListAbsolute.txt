@@ -1,0 +1,14 @@
+C:\Users\airi9\source\repos\7Week Func\7WeekArgumentsandParameters\bin\Debug\net6.0\7WeekArgumentsandParameters.exe
+C:\Users\airi9\source\repos\7Week Func\7WeekArgumentsandParameters\bin\Debug\net6.0\7WeekArgumentsandParameters.deps.json
+C:\Users\airi9\source\repos\7Week Func\7WeekArgumentsandParameters\bin\Debug\net6.0\7WeekArgumentsandParameters.runtimeconfig.json
+C:\Users\airi9\source\repos\7Week Func\7WeekArgumentsandParameters\bin\Debug\net6.0\7WeekArgumentsandParameters.dll
+C:\Users\airi9\source\repos\7Week Func\7WeekArgumentsandParameters\bin\Debug\net6.0\7WeekArgumentsandParameters.pdb
+C:\Users\airi9\source\repos\7Week Func\7WeekArgumentsandParameters\obj\Debug\net6.0\7WeekArgumentsandParameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\airi9\source\repos\7Week Func\7WeekArgumentsandParameters\obj\Debug\net6.0\7WeekArgumentsandParameters.AssemblyInfoInputs.cache
+C:\Users\airi9\source\repos\7Week Func\7WeekArgumentsandParameters\obj\Debug\net6.0\7WeekArgumentsandParameters.AssemblyInfo.cs
+C:\Users\airi9\source\repos\7Week Func\7WeekArgumentsandParameters\obj\Debug\net6.0\7WeekArgumentsandParameters.csproj.CoreCompileInputs.cache
+C:\Users\airi9\source\repos\7Week Func\7WeekArgumentsandParameters\obj\Debug\net6.0\7WeekArgumentsandParameters.dll
+C:\Users\airi9\source\repos\7Week Func\7WeekArgumentsandParameters\obj\Debug\net6.0\refint\7WeekArgumentsandParameters.dll
+C:\Users\airi9\source\repos\7Week Func\7WeekArgumentsandParameters\obj\Debug\net6.0\7WeekArgumentsandParameters.pdb
+C:\Users\airi9\source\repos\7Week Func\7WeekArgumentsandParameters\obj\Debug\net6.0\7WeekArgumentsandParameters.genruntimeconfig.cache
+C:\Users\airi9\source\repos\7Week Func\7WeekArgumentsandParameters\obj\Debug\net6.0\ref\7WeekArgumentsandParameters.dll

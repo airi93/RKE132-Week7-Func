@@ -1,0 +1,14 @@
+C:\Users\airi9\source\repos\7Week Func\DidcountCalculator\obj\Debug\net6.0\DidcountCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\airi9\source\repos\7Week Func\DidcountCalculator\obj\Debug\net6.0\DidcountCalculator.AssemblyInfoInputs.cache
+C:\Users\airi9\source\repos\7Week Func\DidcountCalculator\obj\Debug\net6.0\DidcountCalculator.AssemblyInfo.cs
+C:\Users\airi9\source\repos\7Week Func\DidcountCalculator\obj\Debug\net6.0\DidcountCalculator.csproj.CoreCompileInputs.cache
+C:\Users\airi9\source\repos\7Week Func\DidcountCalculator\bin\Debug\net6.0\DidcountCalculator.exe
+C:\Users\airi9\source\repos\7Week Func\DidcountCalculator\bin\Debug\net6.0\DidcountCalculator.deps.json
+C:\Users\airi9\source\repos\7Week Func\DidcountCalculator\bin\Debug\net6.0\DidcountCalculator.runtimeconfig.json
+C:\Users\airi9\source\repos\7Week Func\DidcountCalculator\bin\Debug\net6.0\DidcountCalculator.dll
+C:\Users\airi9\source\repos\7Week Func\DidcountCalculator\bin\Debug\net6.0\DidcountCalculator.pdb
+C:\Users\airi9\source\repos\7Week Func\DidcountCalculator\obj\Debug\net6.0\DidcountCalculator.dll
+C:\Users\airi9\source\repos\7Week Func\DidcountCalculator\obj\Debug\net6.0\refint\DidcountCalculator.dll
+C:\Users\airi9\source\repos\7Week Func\DidcountCalculator\obj\Debug\net6.0\DidcountCalculator.pdb
+C:\Users\airi9\source\repos\7Week Func\DidcountCalculator\obj\Debug\net6.0\DidcountCalculator.genruntimeconfig.cache
+C:\Users\airi9\source\repos\7Week Func\DidcountCalculator\obj\Debug\net6.0\ref\DidcountCalculator.dll
